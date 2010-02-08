@@ -1,6 +1,6 @@
 --- 
 title: A Hacker Attack
-date: 08/02/2010
+date: 2010/08/01
 
 Once upon a time...my friend installed phpmyadmin to look at mysql databases. Unfortunately, that codebase comes with a weakness whereby a hacker can get the config file config.inc.php and wire up a connection to control the server. What a pile o'crap that is. Oh well, lesson learned.
 
