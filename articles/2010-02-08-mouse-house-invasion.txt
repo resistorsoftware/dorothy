@@ -1,5 +1,5 @@
 ---
-title: There's a Mouse in the House
+title: There is a Mouse in the House
 author: Dave Lazar
 date: 2010/02/08
 
